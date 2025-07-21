@@ -26,5 +26,5 @@ Juntas, essas soluções — ranqueamento por compatibilidade e avaliação de e
 Abaixo segue link da proposta que criamos para a empresa Decision.
 https://datafiap.streamlit.app/
 
-A proposta completa você encontra no link:
-https://drive.google.com/file/d/1UughnOvWfghug9jBONMMgoQYFVZG5akn/view?usp=drive_link
+A proposta completa você encontra em:
+Datathon Fase 05 - Proposta de trabalho.pdf
